@@ -39,29 +39,29 @@ The portal also includes sections such as Home, About Us, and Contact Us to prov
 ## Screenshots
 
 ### Home Page
-![Home Page 1](images/home_page1.png)
-![Home Page 2](images/home_page2.png)
+<img src="Website%20Images/Screenshot%20(34).png" width="400" align="center">
+<img src="Website%20Images/Screenshot%20(35).png" width="400">
 
 ### NDA Page
-![NDA Page 1](images/nda_page1.png)
-![NDA Page 2](images/nda_page2.png)
-![NDA Page 3](images/nda_page3.png)
+<img src="Website%20Images/Screenshot%20(39).png" width="400">
+<img src="Website%20Images/Screenshot%20(40).png" width="400">
+<img src="Website%20Images/Screenshot%20(41).png" width="400">
 
 ### CDS Page
-![CDS Page 1](images/cds_page1.png)
-![CDS Page 2](images/cds_page2.png)
-![CDS Page 3](images/cds_page3.png)
+<img src="Website%20Images/Screenshot%20(42).png" width="400">
+<img src="Website%20Images/Screenshot%20(43).png" width="400">
+<img src="Website%20Images/Screenshot%20(44).png" width="400">
 
 ### AFCAT Page
-![AFCAT Page 1](images/afcat_page1.png)
-![AFCAT Page 2](images/afcat_page2.png)
-![AFCAT Page 3](images/afcat_page3.png)
+<img src="Website%20Images/Screenshot%20(45).png" width="400">
+<img src="Website%20Images/Screenshot%20(46).png" width="400">
+<img src="Website%20Images/Screenshot%20(47).png" width="400">
 
 ### About Us Page
-![About Us Page](images/about_us_page.png)
+<img src="Website%20Images/Screenshot%20(37).png" width="400">
 
 ### Contact Us Page
-![Contact Us Page](images/contact_us_page.png)
+<img src="Website%20Images/Screenshot%20(38).png" width="400">
 
 ## Installation
 
@@ -104,5 +104,3 @@ Contributions are welcome! Please follow these steps to contribute:
     ```
 
 5. Open a pull request.
-
-
