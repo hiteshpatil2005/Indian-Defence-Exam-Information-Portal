@@ -39,13 +39,17 @@ The portal also includes sections such as Home, About Us, and Contact Us to prov
 ## Screenshots
 
 ### Home Page
-<img src="Website%20Images/Screenshot%20(34).png" width="400" align="center">
+<p align="center">
+<img src="Website%20Images/Screenshot%20(34).png" width="400">
 <img src="Website%20Images/Screenshot%20(35).png" width="400">
+</p>
 
 ### NDA Page
+<p align="center">
 <img src="Website%20Images/Screenshot%20(39).png" width="400">
 <img src="Website%20Images/Screenshot%20(40).png" width="400">
 <img src="Website%20Images/Screenshot%20(41).png" width="400">
+</p>
 
 ### CDS Page
 <img src="Website%20Images/Screenshot%20(42).png" width="400">
