@@ -2,6 +2,14 @@
 
 Welcome to the Indian Defense Exam Portal! This website provides detailed information about various officer-level defense exams in India, including updates on registration forms and official website links for exam registration.
 
+
+
+## Languages Use 💡
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+
 ## Table of Contents
 
 - [Project Description](#project-description)
