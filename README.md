@@ -1,4 +1,8 @@
-# Indian Defense Exam Portal
+<p align="center">
+<img src="https://github.com/hiteshpatil2005/Indian-Defence-Exam-Information-Portal/blob/main/icon/web%20development.jpg" height="250" width="800">
+</p>
+
+# Indian Defence Exam Portal
 
 Welcome to the Indian Defense Exam Portal! This website provides detailed information about various officer-level defense exams in India, including updates on registration forms and official website links for exam registration.
 
@@ -66,6 +70,7 @@ The portal also includes sections such as Home, About Us, and Contact Us to prov
 </p>
 
 ### CDS Page
+
 <p align="center">
 <img src="Website%20Images/Screenshot%20(42).png" width="550">
 </p>
@@ -75,7 +80,9 @@ The portal also includes sections such as Home, About Us, and Contact Us to prov
 <p align="center">    
 <img src="Website%20Images/Screenshot%20(44).png" width="550">
 </p>
+
 ### AFCAT Page
+
 <p align="center">
 <img src="Website%20Images/Screenshot%20(45).png" width="550">
 </p>
